@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:libs"
+      name = "libs">
+      <FileRef
+         location = "group:arrays.playground">
+      </FileRef>
+      <FileRef
+         location = "group:booleans.playground">
+      </FileRef>
+      <FileRef
+         location = "group:classes.playground">
+      </FileRef>
+      <FileRef
+         location = "group:classes_inheritance.playground">
+      </FileRef>
+      <FileRef
+         location = "group:classes_override.playground">
+      </FileRef>
+      <FileRef
+         location = "group:dictionaries.playground">
+      </FileRef>
+      <FileRef
+         location = "group:for_loops.playground">
+      </FileRef>
+      <FileRef
+         location = "group:functions.playground">
+      </FileRef>
+      <FileRef
+         location = "group:if-else_statements.playground">
+      </FileRef>
+      <FileRef
+         location = "group:initializers.playground">
+      </FileRef>
+      <FileRef
+         location = "group:logical_operators.playground">
+      </FileRef>
+      <FileRef
+         location = "group:math_operators_formatting.playground">
+      </FileRef>
+      <FileRef
+         location = "group:optionals.playground">
+      </FileRef>
+      <FileRef
+         location = "group:property_observers.playground">
+      </FileRef>
+      <FileRef
+         location = "group:return_statements.playground">
+      </FileRef>
+      <FileRef
+         location = "group:strings.playground">
+      </FileRef>
+      <FileRef
+         location = "group:structs.playground">
+      </FileRef>
+      <FileRef
+         location = "group:structs_mutatingMethods.playground">
+      </FileRef>
+      <FileRef
+         location = "group:switch_statements.playground">
+      </FileRef>
+      <FileRef
+         location = "group:ternary_operators.playground">
+      </FileRef>
+      <FileRef
+         location = "group:type_casting.playground">
+      </FileRef>
+      <FileRef
+         location = "group:variables_typeAnnotation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:while_loops.playground">
+      </FileRef>
+   </Group>
+</Workspace>
