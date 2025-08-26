@@ -29,7 +29,7 @@ var book = Book(name: "", publicationYear: nil)
 if let unwrappedPublicationYear = book.publicationYear {
     print("The book was published in \(unwrappedPublicationYear)")
 } else {
-    print("The book does not hae an official publication date")
+    print("The book does not have an official publication date")
 }
 
 
