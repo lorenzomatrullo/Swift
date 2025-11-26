@@ -1,6 +1,9 @@
 # Swift
 
-On macOS, open the `Swift.playground` directly in Xcode. Each topic below links to a playground page with focused examples.
+This repo is a small Swift learning playground, meant to be read in order from top to bottom.  
+Each page focuses on a single concept with tiny, runnable examples, so you can tweak the code and instantly see what changes.
+
+On macOS, open the `Swift.playground` directly in Xcode and use the sidebar to move through the topics.
 
 ## Learning Path
 
