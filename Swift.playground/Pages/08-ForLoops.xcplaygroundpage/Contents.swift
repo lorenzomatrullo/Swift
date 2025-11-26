@@ -1,5 +1,3 @@
-// Chapter 8: For loops
-
 import Foundation
 
 // For-in loop over a range

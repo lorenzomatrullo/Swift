@@ -1,5 +1,3 @@
-// Chapter 11: Dictionaries
-
 import Foundation
 
 // Dictionaries store key/value pairs, for example [key1: value1, key2: value2]

@@ -1,5 +1,3 @@
-// Chapter 2: Strings
-
 import Foundation
 
 // String basics: multiline literals, emptiness, concatenation, interpolation, comparison, prefix and suffix checks

@@ -1,5 +1,3 @@
-// Chapter 9: While loops
-
 import Foundation
 
 // While loop driven by a numeric condition

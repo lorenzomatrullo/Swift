@@ -1,6 +1,4 @@
-// Chapter 21: Overriding in classes
-// Overriding lets a subclass change how a method or property from
-// the base class behaves.
+// A subclass can change how a method or property from its base class behaves.
 
 import Foundation
 

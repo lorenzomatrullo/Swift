@@ -1,6 +1,4 @@
-// Chapter 20: Class inheritance
-// Inheritance means: one class builds on another and automatically
-// gets its stored properties and methods.
+// One class builds on another and automatically gets its stored properties and methods.
 
 import Foundation
 

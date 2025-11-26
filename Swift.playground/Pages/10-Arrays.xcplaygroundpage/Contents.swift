@@ -1,5 +1,3 @@
-// Chapter 10: Arrays
-
 import Foundation
 
 let myName = "Lorenzo"

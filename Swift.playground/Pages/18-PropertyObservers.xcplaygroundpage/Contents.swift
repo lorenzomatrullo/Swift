@@ -1,5 +1,3 @@
-// Chapter 19: Property observers
-
 import Foundation
 
 // Property observers let you react every time a stored property changes.

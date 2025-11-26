@@ -1,5 +1,3 @@
-// Chapter 13: Return values and parameter labels
-
 import Foundation
 
 // Function that returns a value.

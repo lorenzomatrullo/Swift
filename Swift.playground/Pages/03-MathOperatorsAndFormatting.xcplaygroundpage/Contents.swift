@@ -1,5 +1,3 @@
-// Chapter 3: Math operators and number formatting
-
 import Foundation
 
 // Formatting large numbers with underscores for readability

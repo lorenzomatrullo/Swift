@@ -1,4 +1,3 @@
-// Chapter 15: Structs
 // A struct is a simple "blueprint" for a value type. When you copy a struct,
 // you get a new, independent value with its own stored data.
 

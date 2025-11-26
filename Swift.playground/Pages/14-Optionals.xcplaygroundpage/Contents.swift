@@ -1,4 +1,3 @@
-// Chapter 14: Optionals
 // An optional is a value that can either hold something or be empty (nil).
 // You write Int? to mean "maybe an Int".
 

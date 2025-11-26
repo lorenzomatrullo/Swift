@@ -1,5 +1,3 @@
-// Chapter 16: Mutating methods in structs
-
 import Foundation
 
 // A mutating method is allowed to change the stored properties of a struct.

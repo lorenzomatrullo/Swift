@@ -1,5 +1,3 @@
-// Chapter 22: Type casting
-
 import Foundation
 
 // Type casting means turning a value of one type into another type

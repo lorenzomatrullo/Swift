@@ -1,4 +1,4 @@
-// Chapter 17: Classes
+// Basic example of defining a class, storing data, and adding methods.
 
 import Foundation
 

@@ -1,5 +1,3 @@
-// Chapter 12: Functions
-
 import Foundation
 
 // Function with no parameters and no return value

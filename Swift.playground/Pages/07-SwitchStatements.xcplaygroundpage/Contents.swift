@@ -1,5 +1,3 @@
-// Chapter 7: Switch statements
-
 import Foundation
 
 // Basic switch

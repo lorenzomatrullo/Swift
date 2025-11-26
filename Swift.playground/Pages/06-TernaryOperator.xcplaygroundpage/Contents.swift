@@ -1,5 +1,3 @@
-// Chapter 6: Ternary operator
-
 import Foundation
 
 // The ternary operator has the form:

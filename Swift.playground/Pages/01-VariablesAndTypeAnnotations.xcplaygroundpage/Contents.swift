@@ -1,5 +1,3 @@
-// Chapter 1: Variables and type annotations
-
 import Foundation
 
 // Type annotation: declare the type up front when there is no initial value

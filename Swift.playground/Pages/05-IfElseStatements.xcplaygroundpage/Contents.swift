@@ -1,5 +1,3 @@
-// Chapter 5: If and else statements
-
 import Foundation
 
 // If statement

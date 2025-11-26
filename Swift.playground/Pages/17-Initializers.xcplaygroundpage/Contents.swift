@@ -1,6 +1,4 @@
-// Chapter 18: Initializers and self
-// init is a special function that sets up a new instance.
-// self refers to "this instance" inside that function.
+// init sets up a new instance, and self refers to this instance inside that function.
 
 import Foundation
 

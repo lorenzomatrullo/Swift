@@ -1,5 +1,3 @@
-// Chapter 4: Booleans and logical operators
-
 import Foundation
 
 // Boolean values
