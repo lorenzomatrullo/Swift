@@ -5,8 +5,9 @@ Each page focuses on a single concept with tiny, runnable examples, so you can t
 
 On macOS, open the `Swift.playground` directly in Xcode and use the sidebar to move through the topics.
 
-## Learning Path
+<br>
 
+## Learning Path
 1. **Basics**  
 - [Variables and Type Annotations](Swift.playground/Pages/01-VariablesAndTypeAnnotations.xcplaygroundpage/Contents.swift)  
 - [Strings](Swift.playground/Pages/02-Strings.xcplaygroundpage/Contents.swift)  
