@@ -22,11 +22,6 @@ for letter in "ABCDEFG" {
     print("The letter is \(letter)")
 }
 
-// Accessing both the index and the value
-for (index, letter) in "ABCDEFG".enumerated() {
-    print("\(index): \(letter)")
-}
-
 // Iterating over key/value pairs in a dictionary
 let vehicles = ["unicycle": 1, "bicycle": 2, "tricycle": 3, "quad bike": 4]
 

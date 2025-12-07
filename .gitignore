@@ -37,3 +37,9 @@ Packages/
 #########################
 timeline.xctimeline
 playground.xcworkspace/xcuserdata/
+
+#########################
+# IDE
+#########################
+.claude
+.cursor
